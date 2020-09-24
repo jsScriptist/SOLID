@@ -1,4 +1,4 @@
-//Singl Responsibility Principle ()
+//Single Responsibility Principle ()
 
 class News {
     constructor(title, text) {
